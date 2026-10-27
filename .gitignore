@@ -1,0 +1,23 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Workout data exports (personal)
+data/
+
+# clasp scratch
+.clasp-create/
+
+# Your own Apps Script project and deployment (created by `make create` / `make deploy`)
+.clasp.json
+.deployment-id
+
+# Local-only files
+.private/

@@ -1,0 +1,9 @@
+[project]
+name = "rep-sheet"
+version = "0.1.0"
+description = "Rep Sheet: mobile workout logger on Google Sheets + Apps Script, with a pandas loader for analysis"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "pandas>=3.1.0",
+]
